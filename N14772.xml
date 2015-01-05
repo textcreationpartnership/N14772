@@ -108,8 +108,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:018727_0000_0FA811755A644D48"/>
-            <pb facs="tcp:018727_0001_0FA811767A7B7750" rendition="simple:additions"/>
+            <pb facs="unknown:018727_0000_0FA811755A644D48"/>
+            <pb facs="unknown:018727_0001_0FA811767A7B7750"
+                rendition="simple:additions"/>
             <p>LIBERTY AND PEACE, A POEM.</p>
             <p>BY PHILLIS PETERS.</p>
             <p>BOSTON: PRINTED BY WARDEN AND RUSSELL, AT THEIR OFFICE IN MARLBOROUGH-STREET. M, DCC, LXXXIV.</p>
@@ -117,7 +118,7 @@
       </front>
       <body>
          <div type="poem">
-            <pb n="2" facs="tcp:018727_0002_0FA8117733F68550"/>
+            <pb n="2" facs="unknown:018727_0002_0FA8117733F68550"/>
             <head>LIBERTY and PEACE.</head>
             <l>
                <seg rend="decorInit">L</seg>O! Freedom comes. Th' prescient Muse fore<g ref="char:EOLhyphen"/>told,</l>
@@ -138,7 +139,7 @@
             <l>Each Art and Science now with rising Charms,</l>
             <l>Th' expanding Heart with Emulation warms.</l>
             <l>
-               <pb n="3" facs="tcp:018727_0003_0FA81177EAA81EC8"/>E'en great <hi>Britannia</hi> sees with dread Surprize,</l>
+               <pb n="3" facs="unknown:018727_0003_0FA81177EAA81EC8"/>E'en great <hi>Britannia</hi> sees with dread Surprize,</l>
             <l>And from the dazzl'ing Splendors turns her Eyes!</l>
             <l>
                <hi>Britain,</hi> whose Navies swept th' <hi>Atlantic</hi> o'er,</l>
@@ -168,7 +169,7 @@
             <l>And mutual Deaths, all dealt with mutual Rage;</l>
             <l>The Muse's Ear hears mother Earth deplore</l>
             <l>
-               <pb n="4" facs="tcp:018727_0004_0FA811789C4939E8"/>Her ample Surface smoak with kindred Gore:</l>
+               <pb n="4" facs="unknown:018727_0004_0FA811789C4939E8"/>Her ample Surface smoak with kindred Gore:</l>
             <l>The hostile Field destroys the social Ties,</l>
             <l>And ever-lasting Slumber seals their Eyes.</l>
             <l>
